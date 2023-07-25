@@ -1,9 +1,8 @@
-![logo]![logo](https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-developer-5942138-4936310.mp4?h=700)
 
 <h1 align="center">Hi 👋, I'm Kavish Humane</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://iconscout.com/lottie/multitasking-programmer-9084819](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981ea)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishhumane&label=Profile%20views&color=0e75b6&style=flat" alt="kavishhumane" /> </p>
 
