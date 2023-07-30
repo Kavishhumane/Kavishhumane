@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cse18kkhumanejd@gmail.com**
 
-- 📄 Know about my experiences [Kavish Resume.pdf](Kavish Resume.pdf)
+  <a href="https://drive.google.com/file/d/12_yZW2y1Ti1xbWfiGvHzvzdGh0A1--iD/view?usp=drivesdk">Download Resume</a>
 
 - ⚡Life **Family-Animals-Mahi**
 
