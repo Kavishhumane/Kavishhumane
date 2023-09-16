@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cse18kkhumanejd@gmail.com**
 
-- 📄 Know about my experiences<a href="https://drive.google.com/file/d/12_yZW2y1Ti1xbWfiGvHzvzdGh0A1--iD/view?usp=drivesdk">...Download Resume...</a>
+- 📄 Know about my experiences<a href="https://drive.google.com/file/d/1qm5CipMJKhpAbed-fZQgTIN7KN7yflAM/view?usp=sharing">...Download Resume...</a>
 
 - ⚡Artist
 
